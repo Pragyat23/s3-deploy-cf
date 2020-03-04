@@ -4,4 +4,4 @@ Resources:
     Type: AWS::S3::Bucket
     DeletionPolicy: Retain
     Properties:
-      BucketName: my-bucket-niharika-1
+      BucketName: my-bucket-niharika-2
